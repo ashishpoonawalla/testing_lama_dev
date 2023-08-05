@@ -9,9 +9,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} style={{width: 100}}className="App-logo" alt="logo" />
-        <Login/>
+        {/* <Login/> */}
         <p>
-          Ashish Testing!!.
+          Ashish Testing!! -- 1.
         </p>
         <a data-testid="mylink"
           className="App-link"
