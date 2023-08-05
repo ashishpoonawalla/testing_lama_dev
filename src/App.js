@@ -8,10 +8,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} style={{width: 100}}className="App-logo" alt="logo" />
+        {/* <img src={logo} style={{width: 100}}className="App-logo" alt="logo" /> */}
         {/* <Login/> */}
         <p>
-          Ashish Testing!! -- 1.
+          Ashish Testing!! -- 2.
         </p>
         <a data-testid="mylink"
           className="App-link"
